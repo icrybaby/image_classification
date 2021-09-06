@@ -6,3 +6,6 @@ Pre trained algorithms used:
 * InceptionV3
 * ResNet50
 * EfficientNet
+
+Dependencies:
+tensoflow==2.5
